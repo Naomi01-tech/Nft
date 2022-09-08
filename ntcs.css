@@ -1,0 +1,34 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+}
+.eth{
+    color: aqua;
+    display: inline;
+}
+.eq{
+    color: white;
+}
+.contain{
+    border-radius: 30px;
+    margin-top: 40px;
+}
+.name{
+    color: white;
+    display: inline;
+}
+.cr{
+    display: inline;
+    color: hsl(215, 51%, 70%);
+}
+.day{
+    display: inline;
+}
+.CON{
+    display: flex;
+}
+.left{
+    margin-left: 50px;
+}
+.jam{
+    display: flex;
+}
